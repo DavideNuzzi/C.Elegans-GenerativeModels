@@ -195,5 +195,5 @@ cython_debug/
 .cursorindexingignore
 
 old_files
-models/old_files
+models/old
 worm_data_exploration.ipynb
