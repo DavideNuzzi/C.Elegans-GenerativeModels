@@ -197,3 +197,5 @@ cython_debug/
 old_files
 models/old
 worm_data_exploration.ipynb
+*.gif
+worm_ubermodel.ipynb
